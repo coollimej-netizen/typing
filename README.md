@@ -68,7 +68,7 @@
 <h1>한글 타자연습</h1>
 
 <div id="modeSelect">
-    <button onclick="setMode('word')">난말 연습</button>
+    <button onclick="setMode('word')">낱말 연습</button>
     <button onclick="setMode('sentence')">단문 연습</button>
 </div>
 
